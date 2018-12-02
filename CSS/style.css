@@ -1,0 +1,160 @@
+body {
+  background: #eee;
+}
+
+#frm {
+  border: solid gray 1px;
+  width: 20%;
+  border-radius: 5px;
+  margin: 100px auto;
+  background: white;
+  padding: 50px;
+}
+
+.btn {
+  font-weight: bold !important;
+}
+
+.btn-login {
+  background-color: #fba919 !important;
+  border-color:  #fba919 !important;
+}
+
+.btn-success {
+  font-weight: bold !important;
+}
+
+.btn-menu {
+  font-weight: bold !important;
+  bottom: -1px;
+}
+
+.btn-menu:hover {
+  font-weight: bold !important;
+  background-color: #fba919 !important;
+}
+
+.navbar-inverse .navbar-nav>.active>a,.navbar-inverse .navbar-nav>.open>a,.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover,.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {
+	background-color: #fba919 !important;
+  font-weight: bold !important;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #222222;
+  color: #8c8c8c;
+  text-align: center;
+}
+
+.loginerror {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  color: #ff0000 !important;
+  font-weight: bold !important;
+}
+
+.prelogin {
+  color: #ffffff !important;
+  font-weight: bold !important;
+  padding-left: 100px !important;
+}
+
+.list-group-item-danger {
+  background-color: #c2c2c2 !important;
+  color: #000000 !important;
+  font-weight: bold !important;
+}
+
+.list-group-item-danger:hover {
+  background-color: #b36363 !important;
+
+}
+
+.list-group-item-info {
+  background-color: #c2c2c2 !important;
+  color: #000000 !important;
+  font-weight: bold !important;
+}
+
+.list-group-item-info:hover {
+  background-color: #54b4e3 !important;
+
+}
+
+.panel-success {
+  font-weight: bold !important;
+}
+
+.badge {
+  background-color: #cf0000 !important;
+  color: #ffffff !important;
+  font-weight: bold !important;
+}
+
+
+.header {
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+  width: auto;
+}
+
+.header-logo {
+  width: 56px;
+}
+
+.center {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.vertical-center {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.btn1 {
+  font-weight: bold !important;
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+tr {
+  background-color: #f4f4f4 !important;
+}
+
+.bg1 {
+  background-color: #fba919;
+}
+
+.loginForm {
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.well {
+  width: auto;
+}
+
+.atstarpe {
+  padding-bottom: 100px !important;
+}
+
+.txtBold {
+  font-weight: bold !important;
+  text-align: right !important;
+}
+
+#text_bold_center {
+    text-align: center;
+    font-weight: bold;
+}
